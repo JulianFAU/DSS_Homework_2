@@ -20,7 +20,7 @@ def create_random_int(min, max):
 
 
 def create_random_math_operation():
-        """
+    """
     returns a random mathematical operation
     
     Args:
