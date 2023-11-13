@@ -1,1 +1,1 @@
-from .test_math_quiz import *
+from .math_quiz import *
